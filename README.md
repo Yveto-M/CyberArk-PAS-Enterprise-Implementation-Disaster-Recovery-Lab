@@ -260,7 +260,7 @@ This project documents the end-to-end deployment of a **CyberArk Privileged Acce
 **Step 24:** Success. The Disaster Recovery service is installed and set to "Automatic" startup.
 **[DR Complete]**
 
-<img width="450" height="350" alt="Dr-vault-complete-24" src="https://github.com/user-attachments/assets/be6e3d96-5159-4126-92df-de03fc03c6d8" />
+<img width="400" height="350" alt="Dr-vault-complete-24" src="https://github.com/user-attachments/assets/be6e3d96-5159-4126-92df-de03fc03c6d8" />
 
 
 &nbsp;
@@ -269,7 +269,7 @@ This project documents the end-to-end deployment of a **CyberArk Privileged Acce
 **Step 25:** **Architecture Validation.** The System Health Dashboard now confirms a **Primary -> DR** replication link.
 **[Health Dashboard]**
 
-<img width="550" height="440" alt="Dr-vault-health-25" src="https://github.com/user-attachments/assets/c92f5fba-fa9d-441e-9afa-6443ada786d6" />
+<img width="500" height="400" alt="Dr-vault-health-25" src="https://github.com/user-attachments/assets/c92f5fba-fa9d-441e-9afa-6443ada786d6" />
 
 
 &nbsp;
@@ -283,7 +283,7 @@ This project documents the end-to-end deployment of a **CyberArk Privileged Acce
 This log confirms that the DR Vault is successfully pulling encrypted data from the Primary Vault every 5 minutes.
 **[Replication Log]**
 
-<img width="550" height="273" alt="Proof-vault-works-26" src="https://github.com/user-attachments/assets/5fdee587-948f-4007-80b9-8722f02826c2" />
+<img width="650" height="340" alt="Proof-vault-works-26" src="https://github.com/user-attachments/assets/5fdee587-948f-4007-80b9-8722f02826c2" />
 
 
 ---
