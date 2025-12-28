@@ -5,6 +5,7 @@
 **Architecture:** Multi-Node High Availability (HA) Cluster
 
 **Version:** CyberArk PAS 13.2 (Self-Hosted)
+
 ---
 &nbsp;
 
