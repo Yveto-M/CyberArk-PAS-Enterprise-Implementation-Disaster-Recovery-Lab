@@ -1,11 +1,11 @@
 # CyberArk PAS 13.2: Enterprise Implementation & Disaster Recovery Lab
 
 **Role:** Identity Security Engineer (Lab Simulation)
+
 **Architecture:** Multi-Node High Availability (HA) Cluster
+
 **Version:** CyberArk PAS 13.2 (Self-Hosted)
-
 ---
-
 &nbsp;
 
 ## 1. Executive Summary
@@ -17,9 +17,8 @@ This project documents the end-to-end deployment of a **CyberArk Privileged Acce
 * **Resiliency:** Successfully configured `PADR` replication for <15 minute RPO (Recovery Point Objective).
 * **Integration:** Integrated PSM/CPM components with Active Directory for enterprise identity management.
 
-&nbsp;
-
 ---
+&nbsp;
 
 ## 2. Infrastructure Architecture
 
@@ -30,9 +29,9 @@ This project documents the end-to-end deployment of a **CyberArk Privileged Acce
 | **Component-Svr** | PVWA / CPM / PSM | `10.0.0.2` | 🟢 Connected |
 | **UVBank-DC** | Domain Controller (Identity Source) | `10.0.0.3` | 🟢 Active |
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 ## 3. Build Log: Primary Core (The Vault)
 *Objective: Deploy the "Digital Vault" - the hardened, isolated storage engine for all privileged credentials.*
