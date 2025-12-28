@@ -1,11 +1,9 @@
 # CyberArk PAS 13.2: Enterprise Implementation & Disaster Recovery Lab
 
 **Role:** Identity Security Engineer (Lab Simulation)
-
-**Architecture:** Multi-Node High Availability (HA) Cluster
-
+**Architecture:** Distributed Vault Architecture (Primary + DR Site)
+**Topology:** Active-Passive Failover
 **Version:** CyberArk PAS 13.2 (Self-Hosted)
-
 ---
 &nbsp;
 
